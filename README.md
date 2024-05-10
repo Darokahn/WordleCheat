@@ -1,0 +1,1 @@
+Use this tool if you're stumped and can't think of any words that fit your game. It'll give you a list of words that match, sorted by the frequency of common letters. It can usually get it right within a few guesses.
